@@ -1,0 +1,13 @@
+body {
+  background-color: moccasin;
+  text-align: center;
+}
+
+p {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+a {
+  margin-right: 30px;
+}
